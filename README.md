@@ -1,4 +1,4 @@
-# ProyectoZombie
+# Proyecto Zombie
 
 ##  Descripción
 
