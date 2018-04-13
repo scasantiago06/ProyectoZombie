@@ -8,4 +8,5 @@ Unity 5.6.1 was used for this project. [Download](https://unity3d.com/es/get-uni
 
 ## Contac me
 GitHub username: scasantiago06
+<br>
 Gmail: scasantiago06@gmail.com
